@@ -1,4 +1,4 @@
-# cups-brother-label-names
+# brother-label-media-names
 Table to find CUPS naming for brother labels.
 
 As found in the QL-550 PPD file.
